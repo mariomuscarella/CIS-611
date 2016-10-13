@@ -1,0 +1,6 @@
+c:\users\thedrizzle\documents\visual studio 2015\Projects\Processor\Processor\bin\Debug\Processor.exe.config
+c:\users\thedrizzle\documents\visual studio 2015\Projects\Processor\Processor\bin\Debug\Processor.exe
+c:\users\thedrizzle\documents\visual studio 2015\Projects\Processor\Processor\bin\Debug\Processor.pdb
+c:\users\thedrizzle\documents\visual studio 2015\Projects\Processor\Processor\obj\Debug\Processor.csprojResolveAssemblyReference.cache
+c:\users\thedrizzle\documents\visual studio 2015\Projects\Processor\Processor\obj\Debug\Processor.exe
+c:\users\thedrizzle\documents\visual studio 2015\Projects\Processor\Processor\obj\Debug\Processor.pdb
